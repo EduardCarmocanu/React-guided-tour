@@ -61,7 +61,7 @@ class GuidedTour extends Component
 			<p>We know that links are important for SEO, so we create a special tab for them</p>,
 			<p>We plan on offering onsite analysis to your website, stay tuned</p>,
 			<p>Just to let you know there are new components coming soo</p>,
-			<p>Don\'t forget that you can take the tour again here, you are now ready to use morningscore</p>,
+			<p>Dont forget that you can take the tour again here, you are now ready to use morningscore</p>,
 		];
 
 		return sequenceContents;
